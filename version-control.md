@@ -15,6 +15,10 @@
 
 More here: https://google.github.io/eng-practices/review/developer/small-cls.html
 
+### PR reviews
+
+- Nitpicks should never block an approval, though reviewers should feel comfortable making them.
+
 ### Descriptive commit messages
 
 Bad commit messages create time waste when time traveling
